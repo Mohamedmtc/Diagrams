@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T10:05:36.320Z" agent="5.0 (Windows)" version="17.4.0" etag="jccO6-DzI18dpnpl_SIN" type="github"><diagram id="HIR_HnuRfsgComKwelWx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-02T10:14:56.212Z" agent="5.0 (Windows)" etag="CezitWZ8WNf2VVQy2EwC" version="17.4.0" type="github" pages="2">
+  <diagram id="HIR_HnuRfsgComKwelWx" name="Stage 1">
+    <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8HL2dyl0HHNFjh2lQPh-2" target="l8HL2dyl0HHNFjh2lQPh-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="160" />
+              <mxPoint x="390" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-2" value="&lt;div&gt;Client&lt;/div&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=bottom;spacingTop=36;outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="80" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l8HL2dyl0HHNFjh2lQPh-4" target="l8HL2dyl0HHNFjh2lQPh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+              <mxPoint x="160" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-4" value="&lt;div&gt;Server&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=bottom;spacingTop=36;outlineConnect=0;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-9" value="Fully Encrypted Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-10" value="Fully Encrypted Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="120" width="36.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l8HL2dyl0HHNFjh2lQPh-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_encryption_key;fillColor=#7D7C7C;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="36.5" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WWoqVtw5fzymllLJ7aHS" name="Symetric vs Asymetric">
+    <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="126" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;imageBackground=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="80" y="121.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;imageBackground=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-4" value="symmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-5" value="Asymmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-6" value="One Key -- Session Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-7" value="Two Keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-8" value="Public Key : used for encrypt data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-9" value="private Key : used for decrypt data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="188.5" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-10" value="Used for encryption and decryption" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="188.5" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
