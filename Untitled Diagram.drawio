@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T10:20:09.642Z" agent="5.0 (Windows)" etag="Kqy-h9CLUtplxBdg3b3R" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-02T10:24:33.701Z" agent="5.0 (Windows)" etag="h26AZTgSNRtOGwvsaPM_" version="17.4.0" type="github" pages="2">
   <diagram id="HIR_HnuRfsgComKwelWx" name="Stage 1">
     <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWoqVtw5fzymllLJ7aHS" name="Symetric vs Asymetric">
-    <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,10 @@
           <mxGeometry x="80" y="180" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-4" value="symmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="670" y="50" width="215" height="30" as="geometry" />
+          <mxGeometry x="660.5" y="10" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-5" value="Asymmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="50" width="250" height="30" as="geometry" />
+          <mxGeometry x="90" y="10" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-6" value="One Key -- Session Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="90" width="140" height="20" as="geometry" />
@@ -166,6 +166,54 @@
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-38" value="Encrypt and decrypt the data using the same key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="658" y="487" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-39" value="Smaller cipher text compares to original plain text file." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="590" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-40" value="Larger cipher text compares to original plain text file." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-41" value="Used to transmit big data." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="705" y="630" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-42" value="Used to transmit small data." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-43" value="Asymmetric encryption requires high consumption of resources." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-44" value="Symmetric key encryption works on low usage of resources." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="670" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-45" value="Symmetric encryption is fast technique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="710" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-46" value="Asymmetric encryption is slower in terms of speed." style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="705" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-47" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="780" as="sourcePoint" />
+            <mxPoint x="520" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-48" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="240" as="sourcePoint" />
+            <mxPoint x="1000" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-49" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="26" y="60" as="sourcePoint" />
+            <mxPoint x="976" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-50" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="26" y="540" as="sourcePoint" />
+            <mxPoint x="976" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
