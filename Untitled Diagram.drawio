@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T10:24:33.701Z" agent="5.0 (Windows)" etag="h26AZTgSNRtOGwvsaPM_" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-02T10:27:35.950Z" agent="5.0 (Windows)" etag="Qw0dZQMusmpR3Su9ES-_" version="17.4.0" type="github" pages="2">
   <diagram id="HIR_HnuRfsgComKwelWx" name="Stage 1">
-    <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WWoqVtw5fzymllLJ7aHS" name="Symetric vs Asymetric">
-    <mxGraphModel dx="1673" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="660.5" y="10" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-5" value="Asymmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="10" width="250" height="30" as="geometry" />
+          <mxGeometry x="135" y="10" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-6" value="One Key -- Session Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="90" width="140" height="20" as="geometry" />
