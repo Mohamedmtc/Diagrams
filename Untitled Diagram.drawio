@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T10:14:56.212Z" agent="5.0 (Windows)" etag="CezitWZ8WNf2VVQy2EwC" version="17.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-02T10:20:09.642Z" agent="5.0 (Windows)" etag="Kqy-h9CLUtplxBdg3b3R" version="17.4.0" type="github" pages="2">
   <diagram id="HIR_HnuRfsgComKwelWx" name="Stage 1">
     <mxGraphModel dx="1422" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-1" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="126" width="50" height="37" as="geometry" />
+          <mxGeometry x="752.5" y="126" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;imageBackground=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="80" y="121.5" width="50" height="37" as="geometry" />
@@ -56,13 +56,13 @@
           <mxGeometry x="80" y="180" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-4" value="symmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="50" width="215" height="30" as="geometry" />
+          <mxGeometry x="670" y="50" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-5" value="Asymmetric encryption" style="text;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="50" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-6" value="One Key -- Session Key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="90" width="140" height="20" as="geometry" />
+          <mxGeometry x="700" y="90" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-7" value="Two Keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="70" height="20" as="geometry" />
@@ -74,7 +74,98 @@
           <mxGeometry x="140" y="188.5" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mzsdl2vQxE1lh_2rMJa2-10" value="Used for encryption and decryption" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="188.5" width="200" height="20" as="geometry" />
+          <mxGeometry x="677.5" y="188.5" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-11" target="Mzsdl2vQxE1lh_2rMJa2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="130" y="305" width="47" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-12" target="Mzsdl2vQxE1lh_2rMJa2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="40" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-13" target="Mzsdl2vQxE1lh_2rMJa2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-13" value="Plain text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="22" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-14" target="Mzsdl2vQxE1lh_2rMJa2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-14" value="Cipher text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="211" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-15" value="Plain Text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="390" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" target="Mzsdl2vQxE1lh_2rMJa2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="154" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;imageBackground=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="127" y="450" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;imageBackground=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="305" y="450" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-24" value="&lt;div&gt;Encrypt the data &lt;br&gt;&lt;/div&gt;&lt;div&gt;using public key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="102" y="495" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-25" value="&lt;div&gt;Decrypt the data &lt;br&gt;&lt;/div&gt;&lt;div&gt;using private key&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="275" y="495" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" source="Mzsdl2vQxE1lh_2rMJa2-27" target="Mzsdl2vQxE1lh_2rMJa2-33" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="658" y="305" width="47" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" source="Mzsdl2vQxE1lh_2rMJa2-29" target="Mzsdl2vQxE1lh_2rMJa2-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-29" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="838" y="310" width="40" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" source="Mzsdl2vQxE1lh_2rMJa2-31" target="Mzsdl2vQxE1lh_2rMJa2-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-31" value="Plain text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="550" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" source="Mzsdl2vQxE1lh_2rMJa2-33" target="Mzsdl2vQxE1lh_2rMJa2-29" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-33" value="Cipher text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="739" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-34" value="Plain Text" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/file-text-128.png;sketch=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="918" y="305" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-35" target="Mzsdl2vQxE1lh_2rMJa2-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="Mzsdl2vQxE1lh_2rMJa2-35" target="Mzsdl2vQxE1lh_2rMJa2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/key.svg;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Mzsdl2vQxE1lh_2rMJa2-38" value="Encrypt and decrypt the data using the same key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="658" y="487" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
