@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T04:48:23.274Z" agent="5.0 (Windows)" version="20.2.7" etag="2xHMcm1hFwzQI8JFu8Wj" type="github"><diagram id="GNeolOytNvzGrB2_vEnU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-29T04:55:18.165Z" agent="5.0 (Windows)" etag="o92mRcBOe2qODihQF4HV" version="20.2.7" type="github">
+  <diagram id="GNeolOytNvzGrB2_vEnU" name="Page-1">
+    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="98gxV4jI0nvBt89jXo3Y-1" target="98gxV4jI0nvBt89jXo3Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-1" value="UOB SIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="98gxV4jI0nvBt89jXo3Y-2" target="98gxV4jI0nvBt89jXo3Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-2" value="NEW UOB SIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="98gxV4jI0nvBt89jXo3Y-3" target="98gxV4jI0nvBt89jXo3Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.219;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="98gxV4jI0nvBt89jXo3Y-3" target="98gxV4jI0nvBt89jXo3Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-3" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="530" y="580" width="100" height="129.88" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-7" value="" style="image;html=1;image=img/lib/clip_art/general/Full_Folder_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-10" value="Both the old and the new systems share the same databases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-11" value="the old sis system upload the files in folder inside the service and store the file location the database &lt;br&gt;but the new system in unable to directly access the same folder so it can&#39;t handle the same scenario of file management " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="680" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-12" value="so i need the old system to expose 3 apis to handle file upload ,download , and file delete&lt;br&gt; where the new system can manage the files through them to keep every thing working smoothly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="98gxV4jI0nvBt89jXo3Y-13" value="File Management APIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="455" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
