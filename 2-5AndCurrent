@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T13:29:18.149Z" agent="5.0 (Windows)" etag="Bo_dMUlT-DZHQ7ssz7uX" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-04T17:27:18.685Z" agent="5.0 (Windows)" etag="rMKc4WS6UMfctfiGxKNQ" version="20.6.0" type="github" pages="6">
   <diagram id="egUu_CvdQVoJHbBvFhKB" name="Page-1">
     <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -422,6 +422,20 @@
         </mxCell>
         <mxCell id="YzB9IBiRu2rP2xdn5r2S-47" value="&lt;div&gt;FrontEnd&lt;/div&gt;&lt;div&gt;Future&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="780" y="620" width="120" height="175" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ALxNmheGFFnnMF7qaQjy" name="Page-6">
+    <mxGraphModel dx="1422" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AbDNvE3L4Ohqaku8Z4tH-1" value="LMS DB: After Meeting will be separated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AbDNvE3L4Ohqaku8Z4tH-2" value="Tuesday : we will assign tasks " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="135" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
