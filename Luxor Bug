@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T08:25:42.831Z" agent="5.0 (Windows)" version="20.6.2" etag="ICPSvbxJqlSiLfWzKTcx" type="github"><diagram id="XC7HoQYuKrsd-6vBt3GN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-18T08:29:22.948Z" agent="5.0 (Windows)" version="20.6.2" etag="ajlr1W_qdSY3ZcSGyJIL" type="github">
+  <diagram id="w0p8vfKgdYNh-2TeYsW0" name="Page-1">
+    <mxGraphModel dx="1185" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J-pFCvci9oDAfILtk0kb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-2" value="LUXOR DB SERVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="J-pFCvci9oDAfILtk0kb-3" target="J-pFCvci9oDAfILtk0kb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-3" value="LUXOR APP SERVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="193.227.54.41" link="193.227.54.41" id="J-pFCvci9oDAfILtk0kb-4">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="1160" y="560" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="193.227.53.77" link="193.227.53.77" id="J-pFCvci9oDAfILtk0kb-5">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="825" y="570" width="110" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J-pFCvci9oDAfILtk0kb-2" target="J-pFCvci9oDAfILtk0kb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="500" as="sourcePoint" />
+            <mxPoint x="1110" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/039_-_Cross-128.png" vertex="1" parent="1">
+          <mxGeometry x="1011" y="480" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-8" value="Luxor Infrastructure" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-10" value="External DB Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-13" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="1340" y="500" width="35" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="J-pFCvci9oDAfILtk0kb-14" target="J-pFCvci9oDAfILtk0kb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="J-pFCvci9oDAfILtk0kb-14" target="J-pFCvci9oDAfILtk0kb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-14" value="EXternal APP Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-17" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="1470" y="270" width="35" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="J-pFCvci9oDAfILtk0kb-18" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="1">
+          <mxGeometry x="890" y="250" width="35" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
