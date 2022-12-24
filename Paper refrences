@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T09:42:40.609Z" agent="5.0 (Windows)" version="20.7.4" etag="pm3Ds7Obi6__017302P7" type="github"><diagram id="i8QrfjF0mTg-tD7JocZb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-24T09:44:57.126Z" agent="5.0 (Windows)" version="20.7.4" etag="x1t-MEgOxMq6B7Db7Ugx" type="github">
+  <diagram id="AoildJnguyHZ8EbMw_TI" name="Page-1">
+    <mxGraphModel dx="1434" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-1" value="DS1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-2" value="DS2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-3" value="DS3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-4" value="Pre processing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-5" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-6" value="Classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-7" value="Accuracy Metrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-8" value="Preprocessing 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-9" value="Preprocessing 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-10" value="Preprocessing 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-11" value="Data set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-12" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="330" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-13" value="Classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="430" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqGSMVqkLN9qQgqLWRk-14" value="Accuracy Metrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="520" width="480" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
