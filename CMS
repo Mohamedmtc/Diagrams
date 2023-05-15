@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T19:56:15.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="m733J7fEEFJjr7_ogZaV" version="21.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-15T20:06:14.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="dbCTd_Lqf0sjZM3adqcB" version="21.3.0" type="github" pages="2">
   <diagram name="Page-1" id="hhPZh8uhfJOsIiXTZMoO">
     <mxGraphModel dx="1674" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,26 +63,17 @@
         <mxCell id="khTLNKMbfnUSJRrJHDYM-1" value="Apply Action on Complaint (CompId,ActionCode)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="315" y="20" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="khTLNKMbfnUSJRrJHDYM-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-2" target="khTLNKMbfnUSJRrJHDYM-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="khTLNKMbfnUSJRrJHDYM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-2" target="khTLNKMbfnUSJRrJHDYM-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="khTLNKMbfnUSJRrJHDYM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-2" target="khTLNKMbfnUSJRrJHDYM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKP45p0h6NnHUOl4Muix-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-2" target="-nQ4AzOR76jixByglEOM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BKP45p0h6NnHUOl4Muix-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-2" target="BKP45p0h6NnHUOl4Muix-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="khTLNKMbfnUSJRrJHDYM-2" value="Check Action" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="105" width="100" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="khTLNKMbfnUSJRrJHDYM-5" value="SendBack" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="132.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-nQ4AzOR76jixByglEOM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-7" target="-nQ4AzOR76jixByglEOM-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="khTLNKMbfnUSJRrJHDYM-7" value="Not Send Back" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khTLNKMbfnUSJRrJHDYM-11" value="Approve E7ala" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="132.5" width="120" height="60" as="geometry" />
@@ -144,8 +135,17 @@
         <mxCell id="5fe6Yp1FdfCGRa7ontmU-15" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="510" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ooveqK1QH5ufoH4iH-4K-1" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="348" width="40" height="30" as="geometry" />
+        <mxCell id="ooveqK1QH5ufoH4iH-4K-1" value="NOT Send Back" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKP45p0h6NnHUOl4Muix-2" value="SendBack and auto assignment and need assignment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="118" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BKP45p0h6NnHUOl4Muix-4" value="Select users from the action log of the complaint and role and stage&lt;br&gt;and move the current assigned user and role and action in the complaint to its monitor columns&lt;br&gt; " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="102" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BKP45p0h6NnHUOl4Muix-6" value="also maintine the action log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="50" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
