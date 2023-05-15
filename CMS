@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T20:21:58.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="iZUE5p3ujzBdWFfAiI_F" version="21.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-15T20:30:02.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rMueKdmH7w2IIUo-s3JX" version="21.3.0" type="github" pages="2">
   <diagram name="Page-1" id="hhPZh8uhfJOsIiXTZMoO">
     <mxGraphModel dx="1674" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,7 +78,10 @@
         <mxCell id="khTLNKMbfnUSJRrJHDYM-2" value="Check Action" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="105" width="100" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="khTLNKMbfnUSJRrJHDYM-11" value="Approve E7ala" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vIl1l88WFKSzc_bz5msj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="khTLNKMbfnUSJRrJHDYM-11" target="vIl1l88WFKSzc_bz5msj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khTLNKMbfnUSJRrJHDYM-11" value="اعتماد الاحاله للوحدات الداخليه" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="132.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nQ4AzOR76jixByglEOM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-nQ4AzOR76jixByglEOM-1" target="-nQ4AzOR76jixByglEOM-3">
@@ -149,6 +152,12 @@
         </mxCell>
         <mxCell id="BKP45p0h6NnHUOl4Muix-6" value="also maintine the action log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vIl1l88WFKSzc_bz5msj-4" value="&lt;div&gt;الاعتماد يكون للحفظ وللاحاله للوحدات الخرجيه&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="310" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vIl1l88WFKSzc_bz5msj-5" value="then we select users from selected organization unit&lt;br&gt;according to the target role and assign complinat to the lowest user complaints" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="132.5" width="400" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
