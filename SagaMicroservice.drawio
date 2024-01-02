@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T06:34:08.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-rUgBbz7TdKEGB8zO3W-" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T06:36:47.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="dzB7OpjjMAg71xitufIx" version="22.1.16" type="github">
   <diagram name="Page-1" id="9SaJzH31xsGCSRo-3_ZO">
     <mxGraphModel dx="1194" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
         <mxCell id="koUDRyLc9pjYRCoRXefC-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="340" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="koUDRyLc9pjYRCoRXefC-20" value="Cart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="koUDRyLc9pjYRCoRXefC-20" value="Orchestrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="1290" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="koUDRyLc9pjYRCoRXefC-21" value="RabbitMQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
