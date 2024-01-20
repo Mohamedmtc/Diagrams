@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T09:02:37.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" version="22.1.21" etag="IdlD-AbSArI_db6l-3Ku" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T09:41:35.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="qsfSpXgaV9zPg1ZE7heT" version="22.1.21" type="github">
   <diagram name="Page-1" id="UxzOsR4MExxDNSgnz9ty">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="1250" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="230" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="530" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-1" value="Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-2" target="vFlNTdtvumDT6Vs4aSTl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-2" value="Orchestrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-3" value="Cart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-4" value="Message bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="20" width="900" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-6" target="vFlNTdtvumDT6Vs4aSTl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-6" target="vFlNTdtvumDT6Vs4aSTl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-6" value="Order Started" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-7" value="OrderCanceled" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-8" value="OrderFinished" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-9" target="vFlNTdtvumDT6Vs4aSTl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-9" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-17" value="&lt;h1&gt;Input Event&lt;/h1&gt;&lt;div&gt;IOrderStartedEvent&lt;/div&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;Actions &lt;br&gt;&lt;/h1&gt;&lt;p&gt;1- Save State in Database&lt;/p&gt;&lt;p&gt;2-Transition to order Started State&lt;/p&gt;&lt;p&gt;3- publish command to cart service &lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;CheckOrderStateCommand&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-20" value="&lt;h1&gt;Input Event&lt;/h1&gt;&lt;div&gt;IOrderCanceledEvent&lt;/div&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;Actions &lt;br&gt;&lt;/h1&gt;&lt;p&gt;1- Save State in Database and cancel service name and cancel exception&lt;br&gt;&lt;/p&gt;&lt;p&gt;2-Transition to OrderCancelled State&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="410" width="215" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-21" value="&lt;h1&gt;Input Event&lt;/h1&gt;&lt;div&gt;IOrderFinishedEvent&lt;/div&gt;&lt;h1&gt;&lt;/h1&gt;&lt;h1&gt;Actions &lt;br&gt;&lt;/h1&gt;&lt;p&gt;1- Remove state data from Database&lt;br&gt;&lt;/p&gt;&lt;p&gt;2-Transition to OrderFinished State&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="410" width="215" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-26" value="OrderStateMachine" style="text;whiteSpace=wrap;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.066;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-1" target="vFlNTdtvumDT6Vs4aSTl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.945;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vFlNTdtvumDT6Vs4aSTl-3" target="vFlNTdtvumDT6Vs4aSTl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-30" value="State data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFlNTdtvumDT6Vs4aSTl-31" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="390" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
