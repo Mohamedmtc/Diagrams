@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T07:31:29.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="QYeEbrA9cKBb10zyVrMS" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-19T07:32:00.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Kjp4rXlUFZOj_ffbxrle" version="23.1.5" type="github" pages="3">
   <diagram name="Page-1" id="h7a77n4fhUSPExTUgVPg">
     <mxGraphModel dx="1493" dy="4240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="k4uP0zW8S-fJbESEukH_" name="Page-2">
+  <diagram id="k4uP0zW8S-fJbESEukH_" name="Architecture  Structure ">
     <mxGraphModel dx="4830" dy="3607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -586,7 +586,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-2" id="GBer3Sa6FqB6PS1w_RTV">
+  <diagram name="Architecture  Characteristics" id="GBer3Sa6FqB6PS1w_RTV">
     <mxGraphModel dx="4261" dy="3249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BfGjofgWjeKD3qJSmBEq-0" />
