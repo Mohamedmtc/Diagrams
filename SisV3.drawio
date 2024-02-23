@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T19:14:54.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="bKqaY5volpLrNLBQmtbr" version="23.1.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-23T07:42:02.161Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Qsv6TJOh6OsgIf-zP81I" version="23.1.4" type="github" pages="7">
   <diagram name="Page-1" id="h7a77n4fhUSPExTUgVPg">
     <mxGraphModel dx="2171" dy="4269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -771,7 +771,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Design Principles" id="Q--7Am_1hWmcNm_M0Foz">
-    <mxGraphModel dx="4030" dy="2877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5626" dy="3232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vmCVIfelEoNesQJyQXWG-0" />
         <mxCell id="vmCVIfelEoNesQJyQXWG-1" parent="vmCVIfelEoNesQJyQXWG-0" />
@@ -794,7 +794,7 @@
           <mxGeometry x="1630" y="815" width="730" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmCVIfelEoNesQJyQXWG-8" value="&lt;div style=&quot;font-size: 70px;&quot;&gt;Architecture Decisions&lt;br style=&quot;font-size: 70px;&quot;&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=70;align=center;verticalAlign=middle;fontColor=#000000;rotation=90;" vertex="1" parent="vmCVIfelEoNesQJyQXWG-1">
-          <mxGeometry x="-920" y="830" width="730" height="80" as="geometry" />
+          <mxGeometry x="-830" y="830" width="730" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vmCVIfelEoNesQJyQXWG-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d0cee2;strokeColor=#56517e;" edge="1" parent="vmCVIfelEoNesQJyQXWG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
