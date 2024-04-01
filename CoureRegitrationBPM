@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T22:05:47.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="KXpAzzedw7ewUPBYAoo8" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T22:12:10.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="5C_12yjO2v-4FpYlV42y" version="24.0.7" type="github" pages="2">
   <diagram name="Page-1" id="JW5YetjlBkNLlOl64z1L">
     <mxGraphModel dx="1194" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -98,6 +98,77 @@
         </mxCell>
         <mxCell id="OO9ET6nCRgNj4mr_bdwt-31" value="Business Validation&lt;br&gt;Course Registration Database Management and Validation InProgress = 1, Completed = 2, Failed = 3&lt;br&gt;Microservice Event Course Register Request&lt;br&gt;Microservice Event Notification for UI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="150" width="580" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TUsCMsFjEUFU4Ga1yR5C" name="Page-2">
+    <mxGraphModel dx="1194" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xL_x0lEJMESBPdKLol1i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-1" target="xL_x0lEJMESBPdKLol1i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-1" value="CourseRegistration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-2" target="xL_x0lEJMESBPdKLol1i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-3" target="xL_x0lEJMESBPdKLol1i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-3" value="Validate Business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-6" target="xL_x0lEJMESBPdKLol1i-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-6" target="xL_x0lEJMESBPdKLol1i-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-6" value="Validate In progress request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="320" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-16" target="xL_x0lEJMESBPdKLol1i-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-16" value="Notification service&lt;br&gt;Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-11" value="Notification Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-10" value="Course Register event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xL_x0lEJMESBPdKLol1i-18" target="xL_x0lEJMESBPdKLol1i-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-18" value="Consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-21" value="Your request is under processing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xL_x0lEJMESBPdKLol1i-22" value="Run Stored Procedure&lt;br&gt;Update request status to completed / failed&lt;br&gt;Send notification" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="463" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
