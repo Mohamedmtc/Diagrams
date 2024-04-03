@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T22:15:55.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="23BZnVtkohKQDNSbXoNX" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:55:54.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="vFEj9gV6Ep-SanGBDOZn" version="24.0.7" type="github" pages="2">
   <diagram name="Page-1" id="JW5YetjlBkNLlOl64z1L">
-    <mxGraphModel dx="1194" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
           <mxGeometry x="900" y="630" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OO9ET6nCRgNj4mr_bdwt-31" value="Business Validation&lt;br&gt;Course Registration Database Management and Validation InProgress = 1, Completed = 2, Failed = 3&lt;br&gt;Microservice Event Course Register Request&lt;br&gt;Microservice Event Notification for UI" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="150" width="580" height="70" as="geometry" />
+          <mxGeometry x="850" y="160" width="580" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
