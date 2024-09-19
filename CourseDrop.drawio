@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram name="Page-1" id="9Q4z0PPzpoQtUPN4YMns">
-    <mxGraphModel>
+    <mxGraphModel dx="1514" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="epob_45pjeo9uKpj5Kni-1" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-2" value="&lt;div&gt;Course Registration&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="epob_45pjeo9uKpj5Kni-1" target="epob_45pjeo9uKpj5Kni-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-4" value="Course Drop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-5" value="FE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="epob_45pjeo9uKpj5Kni-5" target="epob_45pjeo9uKpj5Kni-8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-7" value="Course Drop&lt;br&gt;1- Drop Direclty as Old&lt;br&gt;2- Need Opt Verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="300" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-8" value="&lt;div&gt;Course Registration&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="817" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-9" value="public string Message { get; set; }=string.Empty;&#xa;public bool MustVerifyOtp { get; set; }=false;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="350" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-10" value="Message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-12" value="&lt;span class=&quot;druids_misc_json-viewer_value druids_misc_json-viewer_value--string&quot;&gt;{EdCourseId&quot;:2645.0,&quot;ScScheduleDtlId&quot;:115093.0,&quot;SeForm&quot;:1.0,&quot;&lt;/span&gt;OtpCodeVerified&lt;span class=&quot;druids_misc_json-viewer_value druids_misc_json-viewer_value--string&quot;&gt;&quot;:0}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="658" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-13" value="/api/courseregistration/v0/NormalRegistration/QueueCommand/CourseDrop?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="628" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-14" value="&lt;span class=&quot;druids_misc_json-viewer_value druids_misc_json-viewer_value--string&quot;&gt;{EdCourseId&quot;:2645.0,&quot;ScScheduleDtlId&quot;:115093.0,&quot;SeForm&quot;:1.0,&quot;&lt;/span&gt;OtpCodeVerified&lt;span class=&quot;druids_misc_json-viewer_value druids_misc_json-viewer_value--string&quot;&gt;&quot;:100}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="650" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-15" value="/api/courseregistration/v0/NormalRegistration/QueueCommand/CourseDrop?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="620" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-16" value="before Verification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="epob_45pjeo9uKpj5Kni-17" value="After Verification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
