@@ -23,7 +23,7 @@
           <mxGeometry x="340" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76uxFigKgBPBsJWrDOnN-5" value="&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;RedirectUrl&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;ErrorMessage&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="90" height="60" as="geometry" />
+          <mxGeometry x="300" y="290" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76uxFigKgBPBsJWrDOnN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-6" target="76uxFigKgBPBsJWrDOnN-8">
           <mxGeometry relative="1" as="geometry" />
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="76uxFigKgBPBsJWrDOnN-12" value="&#xa;&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Cancelurl&amp;nbsp;=&amp;nbsp;request.SourceUrl&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;?PayResult=Cancel&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-18" target="76uxFigKgBPBsJWrDOnN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-18" value="&#xa;&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;GetNPAPaymentUrl&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
