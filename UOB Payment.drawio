@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.0">
   <diagram name="Page-1" id="65RsmldtSrY4tkwgmzPq">
-    <mxGraphModel>
+    <mxGraphModel dx="1274" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="76uxFigKgBPBsJWrDOnN-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" width="770" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-1" target="76uxFigKgBPBsJWrDOnN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-1" value="Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-2" target="76uxFigKgBPBsJWrDOnN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-2" value="&#xa;&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;GetNPARedirctUrl&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-4" value="&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;FeeStudFeeItemId&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;SourceUrl&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-5" value="&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;RedirectUrl&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;ErrorMessage&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-6" target="76uxFigKgBPBsJWrDOnN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-6" value="BANK" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-8" target="76uxFigKgBPBsJWrDOnN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-8" target="76uxFigKgBPBsJWrDOnN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="76uxFigKgBPBsJWrDOnN-8" target="76uxFigKgBPBsJWrDOnN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-10" value="&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Successurl&amp;nbsp;=&amp;nbsp;request.SourceUrl&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;?PayResult=Success&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-11" value="&#xa;&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Failurl&amp;nbsp;=&amp;nbsp;request.SourceUrl&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;?PayResult=Fail&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="76uxFigKgBPBsJWrDOnN-12" value="&#xa;&lt;div style=&quot;color: #000000;background-color: #fffffe;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 12px;line-height: 16px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Cancelurl&amp;nbsp;=&amp;nbsp;request.SourceUrl&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;?PayResult=Cancel&quot;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
