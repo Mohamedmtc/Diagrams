@@ -1858,7 +1858,7 @@
         <mxCell id="vctqpyqZj7MhimKBMOxL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vctqpyqZj7MhimKBMOxL-21" source="vctqpyqZj7MhimKBMOxL-23" target="vctqpyqZj7MhimKBMOxL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-23" value="اختيار نوع الزراعه تقليدي او صوب" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
+        <mxCell id="vctqpyqZj7MhimKBMOxL-23" value="اختيار نوع الزراعه تقليدي او صوب&lt;br&gt;والمساحه" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
           <mxGeometry x="160" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vctqpyqZj7MhimKBMOxL-24" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
@@ -1870,13 +1870,13 @@
         <mxCell id="vctqpyqZj7MhimKBMOxL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vctqpyqZj7MhimKBMOxL-21" source="vctqpyqZj7MhimKBMOxL-27" target="vctqpyqZj7MhimKBMOxL-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-27" value="اختيار المديريه" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
+        <mxCell id="vctqpyqZj7MhimKBMOxL-27" value="نوع المحصول الاساسي" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
           <mxGeometry x="330" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-28" value="اختيار الحيازه" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
+        <mxCell id="vctqpyqZj7MhimKBMOxL-28" value="صنف المحصول الاساسي" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
           <mxGeometry x="530" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-29" value="تجهيز الحيازه" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
+        <mxCell id="vctqpyqZj7MhimKBMOxL-29" value="نوع الصنف" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-21">
           <mxGeometry x="700" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vctqpyqZj7MhimKBMOxL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vctqpyqZj7MhimKBMOxL-21" source="vctqpyqZj7MhimKBMOxL-28" target="vctqpyqZj7MhimKBMOxL-29">
