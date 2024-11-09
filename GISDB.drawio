@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" modified="2024-11-09T13:16:18.311Z" version="24.7.1" etag="qYDJx3gnkjGOM-iDpPjB" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" modified="2024-11-09T13:19:13.630Z" version="24.7.1" etag="kttqHIBnvfGZJkg6vqTJ" type="github" pages="4">
   <diagram name="ERD" id="2bgvKo-umGs2NyoPaogH">
     <mxGraphModel dx="3290" dy="2125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -832,7 +832,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zBNfVMjOkj7GVC2vmyAl-81" value="Ahwad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="W5mcQk7QLrrfIjdGDSrp-1" vertex="1">
-          <mxGeometry x="-920" y="599" width="250" height="90" as="geometry" />
+          <mxGeometry x="-230" y="599" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zBNfVMjOkj7GVC2vmyAl-82" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="zBNfVMjOkj7GVC2vmyAl-81" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -1084,10 +1084,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-0" value="Season" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-1">
-          <mxGeometry x="-540" y="910" width="180" height="90" as="geometry" />
+          <mxGeometry x="-540" y="910" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-0">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-2" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-1">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1095,12 +1095,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-3" value="SeasonId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-1">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-0">
-          <mxGeometry y="60" width="180" height="30" as="geometry" />
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-8" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-7">
           <mxGeometry width="30" height="30" as="geometry">
@@ -1108,8 +1108,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gPVLHBgNrmhBm-s1QlT5-9" value="Description" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="gPVLHBgNrmhBm-s1QlT5-7">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
+          <mxGeometry x="30" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZgejZ4fB1o2yCfGQ5ZkU-0" value="&lt;strong&gt;CultivationType&lt;/strong&gt;&lt;br&gt;طبيعة المزروع" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-1">
