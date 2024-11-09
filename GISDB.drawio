@@ -382,7 +382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5mcQk7QLrrfIjdGDSrp-115" value="Gamayat" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-1">
-          <mxGeometry x="50" y="770" width="250" height="150" as="geometry" />
+          <mxGeometry x="90" y="700" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="W5mcQk7QLrrfIjdGDSrp-116" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-115">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -466,7 +466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5mcQk7QLrrfIjdGDSrp-135" value="Moderya" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-1">
-          <mxGeometry x="510" y="845" width="250" height="120" as="geometry" />
+          <mxGeometry x="500" y="850" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="W5mcQk7QLrrfIjdGDSrp-136" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="W5mcQk7QLrrfIjdGDSrp-135">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
