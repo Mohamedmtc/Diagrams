@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" modified="2024-11-09T13:34:51.746Z" version="24.7.1" etag="8MJ7EM1ein2DmNbimjVb" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" modified="2024-11-09T13:35:03.333Z" version="24.7.1" etag="g1pWhY0g7JLnRePZbvMx" type="github" pages="4">
   <diagram name="ERD" id="2bgvKo-umGs2NyoPaogH">
     <mxGraphModel dx="4426" dy="2857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1508,7 +1508,7 @@
           <mxGeometry x="280" y="30" width="669" height="406" as="geometry" />
         </mxCell>
         <mxCell id="GU6NqL1ZsBI21gZoWg_w-5" value="التعديات موجوده في وزاره التخطيط" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="520" y="460" width="400" height="30" as="geometry" />
+          <mxGeometry x="549" y="450" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
