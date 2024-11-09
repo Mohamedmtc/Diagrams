@@ -1850,7 +1850,7 @@
           <mxGeometry x="640" y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vctqpyqZj7MhimKBMOxL-20" value="&amp;nbsp;متابعه تجهيز حيازه للحصر الزراعي الموسمي" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="960" height="380" as="geometry" />
+          <mxGeometry x="180" y="320" width="960" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vctqpyqZj7MhimKBMOxL-21" value="مدير الجمعيه" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-20">
           <mxGeometry y="20" width="960" height="120" as="geometry" />
@@ -1887,12 +1887,6 @@
         </mxCell>
         <mxCell id="vctqpyqZj7MhimKBMOxL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vctqpyqZj7MhimKBMOxL-21" source="vctqpyqZj7MhimKBMOxL-29" target="vctqpyqZj7MhimKBMOxL-31">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-33" value="الاداره الزراعيه" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-20">
-          <mxGeometry y="140" width="960" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vctqpyqZj7MhimKBMOxL-34" value="مديريه الزراعه" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="vctqpyqZj7MhimKBMOxL-20">
-          <mxGeometry y="260" width="960" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
