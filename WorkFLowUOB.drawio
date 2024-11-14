@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="3_4JOr_QtwzDreC7xn5E">
-    <mxGraphModel>
+    <mxGraphModel dx="2021" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-1" value="ID&lt;br&gt;RoleID&lt;br&gt;TargetRoleID&lt;br&gt;StageId&lt;br&gt;TargetStageId&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; NeedAssignment&lt;br&gt;AutoAssignment&lt;br&gt;IsEnd&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="185" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-2" value="RequestAction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-3" value="Request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-4" value="&lt;div&gt;ID&lt;br&gt;StageId&lt;br&gt;CurrentActionId&lt;br&gt;RoleId &lt;br&gt;AssignedUserId &lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-5" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-6" value="RoleAction" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-8" value="WorkFlows" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LxQTfF3GHcRdfKFSJlED-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
