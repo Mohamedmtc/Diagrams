@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.14" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.3" pages="4">
   <diagram name="Page-1" id="jZsZUpvr690R9PqtWvvX">
     <mxGraphModel dx="1514" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -179,6 +179,147 @@
         <mxCell id="1" parent="0" />
         <mxCell id="0YMD3_JtEombzON7ekAe-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="260" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jKoZULkNwwGy1bN8HNsn" name="Page-4">
+    <mxGraphModel dx="960" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RhWoImzKaRvzWlqHXypg-1" value="Hexagon GIS Tools" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2707" y="456" width="330" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-2" value="On-Prem Data Center" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="198" width="2259" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-3" value="Field Workers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="20" width="1042" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-4" value="ArcGIS Online" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2299" y="198" width="681" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-5" value="ArcGIS Field Maps" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2334" y="223" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-6" value="Survey123" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="220" width="132" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-7" value="ArcGIS Dashboards" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2753" y="223" width="192" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-8" value="Mobile Workers" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2448" y="57" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-9" value="Field Devices" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2667" y="57" width="154" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-10" value="GPS Collectors" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2871" y="57" width="164" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-11" value="Field Maps/Survey123&#xa;(Offline Mode)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3085" y="45" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-12" value="Store Imagery/Spatial Data" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="352" width="255" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-13" value="Portal for ArcGIS" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="55" y="493" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-14" value="ArcGIS Server &#xa;(Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="284" y="493" width="246" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-15" value="ArcGIS Data Store" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="580" y="493" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-16" value="ArcGIS Geodatabase &#xa;SQL/PostgreSQL" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="817" y="481" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-17" value="Web Adaptor (IIS) - DMZ" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="223" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-19" value="Load Balancer" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1127" y="493" width="161" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-20" value="Backup Sync" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1338" y="493" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-21" value="Backup Portal" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1536" y="493" width="158" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-22" value="ArcGIS Failover Server" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1745" y="493" width="219" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-23" value="Secondary Geodatabase" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2014" y="493" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-24" value="Firewall / VPN Gateway" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="816" y="223" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-25" value="Export Data (Shapefile/GeoJSON)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2742" y="481" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-26" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.21;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-8" target="RhWoImzKaRvzWlqHXypg-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2418" y="148" />
+              <mxPoint x="2418" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-27" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-8" target="RhWoImzKaRvzWlqHXypg-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2637" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-28" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-8" target="RhWoImzKaRvzWlqHXypg-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2849" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-29" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.48;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-12" target="RhWoImzKaRvzWlqHXypg-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1412" y="431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-30" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.79;entryX=0;entryY=0.4;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-12" target="RhWoImzKaRvzWlqHXypg-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1846" y="431" />
+              <mxPoint x="1846" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-31" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-17" target="RhWoImzKaRvzWlqHXypg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="651" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-32" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-24" target="RhWoImzKaRvzWlqHXypg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="932" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-34" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-8" target="RhWoImzKaRvzWlqHXypg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RhWoImzKaRvzWlqHXypg-35" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="RhWoImzKaRvzWlqHXypg-4" target="RhWoImzKaRvzWlqHXypg-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
