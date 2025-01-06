@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.3" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.3" pages="9">
   <diagram name="Page-1" id="jZsZUpvr690R9PqtWvvX">
     <mxGraphModel dx="1514" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -731,7 +731,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xHVkIz8PMn7jExC9JjJN" name="Page-7">
-    <mxGraphModel dx="1600" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -953,6 +953,512 @@
               <mxPoint x="833" y="278" />
               <mxPoint x="833" y="303" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KmoAeOIa7CUBNCNHgUk1" name="Page-8">
+    <mxGraphModel dx="1837" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-1" value="Hexagon GIS Tools" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="366" y="440" width="330" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-2" value="On-Site QC Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="716" y="440" width="482" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-3" value="External Data Sources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4202" y="29" width="578" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-4" value="On-Prem Data Center - Active-Active HA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="-100" width="2489" height="922" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-5" value="Backup ArcGIS Enterprise" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1728" y="643" width="778" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-6" value="Backup Portal" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="J-Z2_h0Rd5mLIIRgKpj5-5">
+          <mxGeometry x="43" y="46" width="158" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-7" value="ArcGIS Failover Server" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="J-Z2_h0Rd5mLIIRgKpj5-5">
+          <mxGeometry x="251" y="46" width="219" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-8" value="Secondary Geodatabase" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="J-Z2_h0Rd5mLIIRgKpj5-5">
+          <mxGeometry x="520" y="46" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-9" value="QC ArcGIS Enterprise Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2541" y="465" width="1167" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-10" value="Production ArcGIS Enterprise Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3728" y="54" width="434" height="743" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-11" value="Field Workers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4800" y="29" width="967" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-12" value="Esri Disaster Recovery Cloud - Hosted" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="29" width="1583" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-13" value="ArcGIS Field Maps" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="125" y="91" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-14" value="Survey123" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="362" y="91" width="132" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-15" value="ArcGIS Dashboards" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="544" y="91" width="192" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-16" value="Replicate Production to Cloud DR" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-17" value="ArcGIS Server (Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1096" y="91" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-18" value="Cloud Geodatabase (SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1378" y="79" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-19" value="Mobile Workers" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4835" y="91" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-20" value="Field Devices" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="5054" y="91" width="154" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-21" value="GPS Collectors" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="5258" y="91" width="164" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-22" value="Field Maps/Survey123&#xa;(Offline Mode)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="5473" y="79" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-23" value="Secure Proxy (DMZ Layer)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3763" y="91" width="242" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-24" value="Store Imagery/Spatial Data" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3852" y="232" width="255" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-25" value="ArcGIS Server &#xa;(Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3796" y="336" width="246" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-26" value="ArcGIS Data Store" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3904" y="502" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-27" value="ArcGIS Geodatabase &#xa;(SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3867" y="669" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-28" value="Load Balancer (QC)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2885" y="502" width="198" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-29" value="Data Validation and Editing" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2576" y="681" width="255" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-30" value="ArcGIS Server &#xa;(Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2881" y="681" width="246" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-31" value="ArcGIS Data Store" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3177" y="681" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-32" value="ArcGIS Geodatabase &#xa;(SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3413" y="669" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-33" value="Web Adaptor (IIS) - DMZ" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3769" y="-75" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-34" value="On-Prem NAS/SAN Storage" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2586" y="91" width="249" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-35" value="External GIS Systems" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4536" y="91" width="209" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-36" value="Third-Party Data Providers" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4237" y="91" width="249" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-37" value="QC Workstations" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="986" y="502" width="177" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-38" value="ArcGIS Pro for QC" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="751" y="502" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-39" value="Export Data (Shapefile/GeoJSON)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401" y="490" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-40" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.4;exitY=1;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-19" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4880" y="182" />
+              <mxPoint x="4081" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-41" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.74;entryX=0.97;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-19" target="J-Z2_h0Rd5mLIIRgKpj5-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5334" y="182" />
+              <mxPoint x="4142" y="207" />
+              <mxPoint x="4142" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-42" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.66;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-35" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4641" y="182" />
+              <mxPoint x="4061" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-43" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-36" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4362" y="182" />
+              <mxPoint x="4041" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-44" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-16" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1285" y="182" />
+              <mxPoint x="3979" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-24" target="J-Z2_h0Rd5mLIIRgKpj5-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3979" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-46" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.67;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-25" target="J-Z2_h0Rd5mLIIRgKpj5-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3997" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-47" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-26" target="J-Z2_h0Rd5mLIIRgKpj5-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-48" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.63;exitY=1;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-23" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3956" y="182" />
+              <mxPoint x="3956" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-23" target="J-Z2_h0Rd5mLIIRgKpj5-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3817" y="182" />
+              <mxPoint x="3817" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-50" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=1;exitY=0.62;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-34" target="J-Z2_h0Rd5mLIIRgKpj5-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3898" y="182" />
+              <mxPoint x="3898" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-51" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.22;exitY=1;entryX=0.68;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-28" target="J-Z2_h0Rd5mLIIRgKpj5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2854" y="593" />
+              <mxPoint x="2854" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-52" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.54;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-28" target="J-Z2_h0Rd5mLIIRgKpj5-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3004" y="593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-53" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-37" target="J-Z2_h0Rd5mLIIRgKpj5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="593" />
+              <mxPoint x="2703" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-54" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.4;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-38" target="J-Z2_h0Rd5mLIIRgKpj5-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="593" />
+              <mxPoint x="2622" y="618" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-55" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.29;exitY=1;entryX=1;entryY=0.47;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-25" target="J-Z2_h0Rd5mLIIRgKpj5-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3818" y="415" />
+              <mxPoint x="3818" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-56" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-33" target="J-Z2_h0Rd5mLIIRgKpj5-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-Z2_h0Rd5mLIIRgKpj5-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0;entryX=0;entryY=0.77;rounded=0;" edge="1" parent="1" source="J-Z2_h0Rd5mLIIRgKpj5-24" target="J-Z2_h0Rd5mLIIRgKpj5-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3878" y="207" />
+              <mxPoint x="523" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-6nitn7Ufuv8F0WmE6sX" name="Page-9">
+    <mxGraphModel dx="2171" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MKRzmSx__VpVy3L4rkY--1" value="External Data Sources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2878" y="169" width="578" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--2" value="On-Prem Data Center - Active-Active HA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="1737" height="1045" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--3" value="On-Site QC Team" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="367" y="372" width="482" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--4" value="Hexagon GIS Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="869" y="372" width="313" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--5" value="Esri Cluster - Node 2" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="55" y="778" width="1092" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--6" value="Portal for ArcGIS" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry x="43" y="58" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--7" value="ArcGIS Server &#xa;(Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry x="272" y="58" width="246" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--8" value="ArcGIS Data Store" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry x="568" y="58" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--9" value="ArcGIS Geodatabase &#xa;(SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry x="805" y="46" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--10" value="Esri Cluster - Node 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="307" y="575" width="1430" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--11" value="Field Workers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1825" y="169" width="1032" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--12" value="Cloud Productive Cluster" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1777" y="347" width="2158" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--13" value="Cloud Disaster Recovery Cluster (DR)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2369" y="753" width="1566" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--14" value="ArcGIS Field Maps" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2404" y="828" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--15" value="Survey123" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2640" y="828" width="132" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--16" value="ArcGIS Dashboards" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2823" y="828" width="192" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--17" value="Sync to Disaster Recovery" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3065" y="790" width="243" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--18" value="ArcGIS Server (Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3358" y="828" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--19" value="Cloud Geodatabase (SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3640" y="816" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--20" value="ArcGIS Field Maps" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1812" y="409" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--21" value="Survey123" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2218" y="409" width="132" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--22" value="ArcGIS Dashboards" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2400" y="409" width="192" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--23" value="ArcGIS Enterprise (Cloud)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3066" y="409" width="242" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--24" value="ArcGIS Server (Web GIS)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3358" y="409" width="232" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--25" value="Cloud Geodatabase (SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="3639" y="397" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--26" value="Mobile Workers" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="206" width="169" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--27" value="Field Devices" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2144" y="206" width="154" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--28" value="GPS Collectors" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2349" y="206" width="164" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--29" value="Field Maps/Survey123&#xa;(Offline Mode)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="2563" y="194" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--30" value="Secure Proxy (DMZ Layer)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="206" width="242" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--31" value="Sync to On-Prem Cluster" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="612" width="234" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--32" value="Export Data (Shapefile/GeoJSON)" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="576" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--33" value="ArcGIS Data Store" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1205" y="612" width="187" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--34" value="ArcGIS Geodatabase &#xa;(SQL/PostgreSQL)" style="fillColor=none;strokeColor=none;" vertex="1" overrideArrowHead="circle" parent="1">
+          <mxGeometry x="1442" y="600" width="260" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--35" value="Hexagon Geospatial Suite" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="912" y="389" width="243" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--36" value="QC Workstations" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="637" y="409" width="177" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--37" value="ArcGIS Pro for QC" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="402" y="409" width="185" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--38" value="Store Imagery/Spatial Data" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="1006" width="255" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--39" value="Web Adaptor (IIS) - DMZ" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="65" width="231" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--40" value="External GIS Systems" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3212" y="206" width="209" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--41" value="Third-Party Data Providers" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2913" y="206" width="249" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--42" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--26" target="MKRzmSx__VpVy3L4rkY--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1905" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--43" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--26" target="MKRzmSx__VpVy3L4rkY--21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2284" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--44" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.72;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--40" target="MKRzmSx__VpVy3L4rkY--23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3316" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--45" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--41" target="MKRzmSx__VpVy3L4rkY--23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3037" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--46" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0;exitY=0.68;entryX=0.98;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--23" target="MKRzmSx__VpVy3L4rkY--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2375" y="500" />
+              <mxPoint x="2375" y="525" />
+              <mxPoint x="875" y="550" />
+              <mxPoint x="875" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--47" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.62;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--30" target="MKRzmSx__VpVy3L4rkY--36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--48" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--30" target="MKRzmSx__VpVy3L4rkY--35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1025" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--36" target="MKRzmSx__VpVy3L4rkY--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--50" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--37" target="MKRzmSx__VpVy3L4rkY--31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="494" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--51" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--35" target="MKRzmSx__VpVy3L4rkY--32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--52" value="" style="curved=1;startArrow=circle;startFill=0;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--39" target="MKRzmSx__VpVy3L4rkY--30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--53" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.73;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--31" target="MKRzmSx__VpVy3L4rkY--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1222" y="703" />
+              <mxPoint x="1222" y="753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--23" target="MKRzmSx__VpVy3L4rkY--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--55" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--30" target="MKRzmSx__VpVy3L4rkY--10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.89;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--30" target="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="287" y="297" />
+              <mxPoint x="287" y="703" />
+              <mxPoint x="611" y="728" />
+              <mxPoint x="611" y="753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--57" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--10" target="MKRzmSx__VpVy3L4rkY--5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKRzmSx__VpVy3L4rkY--58" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="MKRzmSx__VpVy3L4rkY--5" target="MKRzmSx__VpVy3L4rkY--38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
